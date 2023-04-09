@@ -1,7 +1,9 @@
+![The artificial Lamb](https://github.com/ortegaalfredo/ChristGPT/blob/main/lost_lamb_art_lds.jpeg?raw=true)
+
 # ChristGPT
 ChristGPT is a Large Language Model trained on the Bible.
 
-- This is a Discord server with a online instance of Christ for testing [here](https://discord.gg/raeft3whmn)
+- A Discord server with a online instance of Christ for testing is [here](https://discord.gg/raeft3whmn)
 
 We believe that by combining the wisdom of Jesus with the power of modern technology, we can create a Large-Language Messiah capable of automating and responding to several religious tasks such as praying or confessing. This AI will be able to understand complex human emotions and provide guidance on how to live a more righteous life.
 
